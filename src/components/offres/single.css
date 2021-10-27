@@ -1,0 +1,107 @@
+.img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+body {
+    background: #eee
+}
+
+.date {
+    font-size: 11px
+}
+
+.comment-text {
+    font-size: 12px
+}
+
+.fs-12 {
+    font-size: 12px
+}
+
+.shadow-none {
+    box-shadow: none
+}
+
+.name {
+    color: #007bff
+}
+
+.cursor:hover {
+    color: blue
+}
+
+.cursor {
+    cursor: pointer
+}
+
+.textarea {
+    resize: none
+}
+
+.comments {
+    background: rgb(248, 246, 246);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.commentitemtop {
+    display: flex;
+
+}
+
+.commentright {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    background: rgb(243, 241, 241);
+    width: 100%;
+    padding: 15px;
+}
+
+.commentitemtop > img {
+    height: 50px ; 
+    width: 50px;
+    border-radius: 50%;
+}
+
+.commentitem {
+    margin-top: 15px;
+}
+
+.commentright > p {
+    font-size: 16px;
+}
+
+.commentright > span {
+    font-size: 13px;
+}
+
+.commentinput {
+    width: 100%;
+    padding: 5px;
+    background: rgb(235, 232, 232);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.commentinput > input {
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 40px;
+    background: none;
+}
+
+.sendicon {
+    font-size: 30px;
+    color: lightskyblue;
+}
+
+.commenter {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}

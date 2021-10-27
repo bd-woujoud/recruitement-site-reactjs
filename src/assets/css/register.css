@@ -1,0 +1,32 @@
+.company img{
+
+    cursor: pointer;
+    height: 200px;
+}
+.company h4{
+margin-top: 20px;
+    color: rgb(64, 192, 224);
+}
+
+.registerform{
+margin-top: 100px;
+}
+
+.spanf {
+    color: rgb(64, 160, 224);
+    font-size: 72px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    }
+    
+.company {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.regisetrcompany  {
+    background: rgb(236, 234, 234);
+    margin: 100px;
+    border-radius: 15px;
+}

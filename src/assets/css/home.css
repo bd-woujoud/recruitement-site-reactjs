@@ -1,0 +1,22 @@
+.homecomponent {
+    display: flex;
+   margin-top: 300px;
+    flex : 1;
+
+}
+
+.homesider {
+    flex: 0.2;
+    padding: 20px;
+}
+
+.homemain {
+    
+    flex: 0.6;
+    padding: 20px;
+}
+
+.homeend {
+    flex: 0.2;
+    padding: 20px;
+}

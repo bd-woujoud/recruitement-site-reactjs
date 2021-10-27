@@ -1,0 +1,13 @@
+.login-nav-item {
+    background: none;
+    border: 1px solid rgba(91, 31, 230, 0.911);
+    color:rgb(0, 0, 10);
+    margin: 0 15px;
+    border-radius: 25px;
+    width: 100px;
+    padding-bottom: 5px;
+}
+
+.login-nav-item:hover {
+    background: rgb(210, 212, 231);
+}

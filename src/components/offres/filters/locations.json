@@ -1,0 +1,33 @@
+{
+    "gouvernorats": [
+        "Ariana",
+        "Beja",
+        "Ben Arous",
+        "Bizerte",
+        "Gabès",
+        "Gafsa",
+        "Jendouba",
+        "Kairouan",
+        "Kébili",
+        "Le Kef",
+        "Mahdia",
+        "La Manouba",
+        "Médenine",
+        "Monastir",
+        "Nabeul",
+        "Sfax",
+        "Sidi Bouzid",
+        "Siliana",
+        "Sousse",
+        "Tataouine",
+        "Tozeur",
+        "Tunis",
+        "Zaghouan"
+    ],
+    "typecontrat" : [
+        "CDD",
+        "CDI",
+        "CIVP",
+        "KARAMA"
+    ]
+}

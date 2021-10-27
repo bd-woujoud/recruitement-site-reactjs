@@ -1,0 +1,38 @@
+.filterpanel {
+    background: rgb(218, 216, 216);
+  margin: 15px;
+}
+
+
+
+.filterheader {
+    display: flex;
+    padding: 15px;
+
+}
+
+.filterheader > h5 {
+    margin-left: 15px;
+}
+
+.iconsSIze{
+    font-size: 20px;
+}
+
+.FilterSection {
+    background:rgb(245, 243, 243) ;
+    padding: 15px;
+}
+
+.sectionheader {
+    display: flex;
+    align-content: baseline;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.filterItem {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7px;
+}
